@@ -9,11 +9,11 @@
 # Website Info
 info:
   # Site Favicon 网站图标
-  favicon: https://blogsmeowwow520cn.oss-cn-beijing.aliyuncs.com/assets/handers/myhander-kamiina.jpg
+  favicon: assets/images/site/myhander-kamiina.jpg
   # Site Logo 站点标志
-  logo: https://blogsmeowwow520cn.oss-cn-beijing.aliyuncs.com/assets/handers/myhander-kamiina.jpg
+  logo: assets/images/site/myhander-kamiina.jpg
   # Author Avatar 网站作者头像图标
-  avatar: https://blogsmeowwow520cn.oss-cn-beijing.aliyuncs.com/assets/handers/myhander-kamiina.jpg
+  avatar: assets/images/site/myhander-kamiina.jpg
   # Datetime of when this website was built 网站建站时间
   start_date: 2024-06-16 00:00:00 # Format should be as same as date_format and time_format of root config
 
