@@ -1,0 +1,13 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Hexo 缓存与生成产物
+db.json
+*.log
+public/
+.deploy*/
+_multiconfig.yml
+node_modules/
