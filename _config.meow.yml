@@ -42,12 +42,12 @@ global:
 # Font Customization 字体集
 font:
   custom: true # Whether to use custom font
-  default_font_link: assets/fonts/vivoSans-Regular/result.css # Url of default font
-  default_font_family: "'vivo Sans', 'PingFang SC', 'Microsoft YaHei', Sans-serif, Serif" # Define default fonts
+  default_font_link: assets/fonts/noto-sc-jbmono/result.css # Url of default font
+  default_font_family: "'JetBrains Mono', 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', Sans-serif" # Define default fonts (latin -> JetBrains Mono, CJK -> Noto Sans SC)
   title_font_link: # Url of title font
-  title_font_family: "'vivo Sans', 'PingFang SC', 'Microsoft YaHei', Sans-serif, Serif" # Define title fonts
-  code_font_link: assets/fonts/SFMonoRegular/result.css # Url of code font
-  code_font_family: "'SF Mono', 'vivo Sans', 'PingFang SC', 'Microsoft YaHei', Courier, Consolas, Sans-serif" # Define code fonts
+  title_font_family: "'JetBrains Mono', 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', Sans-serif" # Define title fonts (latin -> JetBrains Mono, CJK -> Noto Sans SC)
+  code_font_link: # Url of code font
+  code_font_family: "'JetBrains Mono', 'Noto Sans SC', Consolas, monospace" # Define code fonts
 
 # Navigation Bar
 menu:
