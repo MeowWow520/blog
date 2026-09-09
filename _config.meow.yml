@@ -9,11 +9,11 @@
 # Website Info
 info:
   # Site Favicon 网站图标
-  favicon: assets/images/site/myhander-kamiina.jpg
+  favicon: assets/site/avatar.jpg
   # Site Logo 站点标志
-  logo: assets/images/site/myhander-kamiina.jpg
+  logo: assets/site/avatar.jpg
   # Author Avatar 网站作者头像图标
-  avatar: assets/images/site/myhander-kamiina.jpg
+  avatar: assets/site/avatar.jpg
   # Datetime of when this website was built 网站建站时间
   start_date: 2024-06-16 00:00:00 # Format should be as same as date_format and time_format of root config
 
@@ -80,8 +80,8 @@ search:
 banner:
   # Background image of banner under light/dark mode
   image:
-    light: assets/images/main-page/light-1.jpg
-    dark: assets/images/main-page/dark-1.avif
+    light: assets/banner/light-1.jpg
+    dark: assets/banner/dark-1.avif
     is_fixed: true # Whether the image is fixed as background or scrollable with banner at homepage, true or false
     position: center center # horizontal(left/center/right) vertical(top/center/bottom)
     repeat: no-repeat # repeat/repeat-x/repeat-y/no-repeat
