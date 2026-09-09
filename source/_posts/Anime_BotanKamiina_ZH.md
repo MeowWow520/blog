@@ -9,7 +9,7 @@ music: true           # 音乐播放器
 tags:
   - Anime
   - 整活
-cover: https://blogsmeowwow520cn.oss-cn-beijing.aliyuncs.com/assets/_posts-image/Botan_Kamiina/Botan_Kamiina_P1.1.png
+cover: https://r2.meowwow520.cn/assets/_posts-image/Botan_Kamiina/Botan_Kamiina_P1.1.png
 excerpt: '本文通过分析意识个体上伊那牡丹在社会人际和交友处事上，如何通过自身行为习惯潜移默化地给自己塑造一个魅魔形象。并深入探讨在第三人物视角下，该个体如何感化外界人物并赢得别具一格的正向评价。'
 ---
 
@@ -33,7 +33,7 @@ excerpt: '本文通过分析意识个体上伊那牡丹在社会人际和交友�
 
 Highball 含有气泡，类似于可口可乐。其中含有的以二氧化碳为主的气泡，是使得<font color="#ff006e">上伊那</font>和<font color="#f9dbbd">伊吹</font>打嗝的原因之一。下面回到正题，在<font color="#ff006e">上伊那</font>喝下去之前，一种魔力的力场已经开始迷糊<font color="#f9dbbd">伊吹</font>了。在阅读完第二话我们知道，传奇败犬<font color="#5a189a">郡上奏</font>其实邀请过<font color="#f9dbbd">伊吹</font>一起去买酒。但是得到的回应却是不尽人意的{% mask '（p.s. 不尽奏意' 0 blue %}。那种表情不难看出<font color="#f9dbbd">伊吹</font>内心深处的对聚众喝酒的抗拒。但为什么<font color="#ff006e">上伊那</font>这个陌生人偏偏能推到这个不倒翁？是因为她好看吗，因为她向自己比耶，因为她对自己喜欢的东西感兴趣？不！都不是！究其根本还是<font color="#ff006e">上伊那牡丹</font>是一个魅魔，其自身散发着令人无法抗拒的强大力场，这个力场犹如催眠一般迷乱了<font color="#f9dbbd">伊吹</font>的心智。
 
-![郡上奏不语，只是一味地抽烟](https://blogsmeowwow520cn.oss-cn-beijing.aliyuncs.com/assets/_posts-image/Botan_Kamiina/Botan_Kamiina_P2.1.png)
+![郡上奏不语，只是一味地抽烟](https://r2.meowwow520.cn/assets/_posts-image/Botan_Kamiina/Botan_Kamiina_P2.1.png)
 
 
 <font color="#ff006e">上伊那牡丹</font>为什么专门吃<font color="#f9dbbd">砺波伊吹</font>？世界上千千万万的女人，为什么偏偏要品<font color="#f9dbbd">砺波伊吹</font>这块肉呢？这要从<font color="#f9dbbd">伊吹</font>神奇的体质谈起。
