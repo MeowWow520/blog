@@ -8,7 +8,7 @@ music: true      # 音乐播放器
 tags:
   - Galgame
   - Flowers
-cover: https://r2.meowwow520.cn/assets/covers/Galgame_Aokana-Asuka.jpg
+cover: https://r2.meowwow520.cn/assets/_posts-image/Galgame_Flowers-Le-volume-sur-ete/cover.jpg
 excerpt: '[未完成的文章] 花-夏'
 ---
 

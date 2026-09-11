@@ -9,7 +9,7 @@ music: true           # 音乐播放器
 tags:
   - Anime
   - 整活
-cover: https://r2.meowwow520.cn/assets/_posts-image/Botan_Kamiina/Botan_Kamiina_P1.1.png
+cover: https://r2.meowwow520.cn/assets/_posts-image/Anime_BotanKamiina/cover.png
 excerpt: ''
 ---
 

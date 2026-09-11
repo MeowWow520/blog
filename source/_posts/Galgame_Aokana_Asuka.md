@@ -8,7 +8,7 @@ music: true           # 音乐播放器
 tags:
   - Galgame
   - Aokana
-cover: https://r2.meowwow520.cn/assets/covers/Galgame_Aokana-Asuka.jpg
+cover: https://r2.meowwow520.cn/assets/_posts-image/Galgame_Aokana-Asuka/cover.jpg
 excerpt: '[未完成的文章] 仓科明日香: 所以，我希望你能教我更多，让我能更开心地飞'
 ---
 
@@ -16,7 +16,7 @@ excerpt: '[未完成的文章] 仓科明日香: 所以，我希望你能教我�
 **仓科明日香**： 所以，我希望你能教我更多，让我能更开心地飞
 {% endnote %}
 
-![First](https://r2.meowwow520.cn/hexo/source/img/_post/Galgame_Aokana-Asuka/20260120214922_1.jpg)
+![First](https://r2.meowwow520.cn/assets/_posts-image/Galgame_Aokana-Asuka/20260120214922_1.jpg)
 
 ### 游玩时的想法
 

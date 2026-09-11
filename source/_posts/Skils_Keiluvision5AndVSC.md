@@ -11,7 +11,7 @@ tags:
   - VSCode
   - Keil5
   - Skills
-cover: https://r2.meowwow520.cn/assets/covers/Skils_Keiluvision5AndVSC.jpg
+cover: https://r2.meowwow520.cn/assets/_posts-image/Skils_Keiluvision5AndVSC/cover.jpg
 excerpt: '本教程指导配置 VSCode 辅助 Keil5 C51单片机开发。通过创建独立工作区、安装 C/C++ 插件并配置 IntelliSense 路径，解决头文件找不到等问题。预期效果：消除红色波浪线警告，获得代码补全和语法检查功能，在 VSCode 中享受现代编辑器便利，同时保持Keil5负责编译调试，两者文件同步配合工作。'
 ---
 
