@@ -58,6 +58,8 @@ menu:
       MeowWow520: /About-Me
     Links:
       Friend: /friends
+    Diary:
+      Postgraduate: /Diary-Postgraduate
 
 # Navigation Bar Configuration
 menu_options:
@@ -93,7 +95,7 @@ banner:
   # Banner title
   title:
     enable: true # Whether to show title
-    text: 咪嘛五二零 # Title text
+    text: 咪 嘛 五 二 零 # Title text
   # Banner subtitle at homepage
   subtitle:
     enable: true # Whether to show subtitle

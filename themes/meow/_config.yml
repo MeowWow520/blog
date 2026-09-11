@@ -271,7 +271,8 @@ share:
 
 # Essay Page
 essay:
-  desc: # Additional message of essay
+  # Additional message of Diary-Postgraduate
+  desc: 这是一篇记录考研的日记
   type: local # Essay type: local or artitalk
   # Artitalk config, https://artitalk.js.org/
   artitalk:
@@ -279,10 +280,10 @@ essay:
     app_key: # LeanCloud AppKey
     server_url: # API domain
     lang: en # Language, e.g. en, zh, es
-    page_size: 5 # How many essay to be displayed when loaded
+    page_size: 5 # How many Diary-Postgraduate to be displayed when loaded
     avatar_pla: # Essay avatar url
     emoji: # Format in list: custom emoji name: custom emoji image url
-    comment: 0 # Whether to enable comment function for each essay, 0(disable) or 1(enable)
+    comment: 0 # Whether to enable comment function for each Diary-Postgraduate, 0(disable) or 1(enable)
   local:
     avatar_shape: 2 # Shape of avatar. 1(normal) or 2(circle)
     max_num: 30 # Max number of essays to display
