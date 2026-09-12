@@ -273,7 +273,7 @@ footer:
 reward:
   # QRcode list, false or QRcode title: QRcode image url
   qrcode: 
-    微信: assets\images\config-default\wechat-support-qrcode.png
+    微信: assets/images/config-default/wechat-support-qrcode.png
   # Text link list, false or Link title: link url
   link: false
 
